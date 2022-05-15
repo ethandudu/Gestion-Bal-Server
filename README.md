@@ -31,9 +31,9 @@ Les pré-requis indiqués ci-dessous sont ceux pour lesquels le serveur a été 
 - Importer le fichier database.sql dans la base de données
 - Ouvrir les ports dans votre routeur (généralement 80/443/3306)
 - Modifier les fichiers `mail.php`, `mailuser.php`, `mailmessage.php` avec vos informations de connexion SMTP.
-- Vous pouvez maintenant vous rendre sur ![Gestion-Bal-Windows](https://github.com/ethandudu/Gestion-Bal-Windows) ou ![Gestion-Bal-Android](https://github.com/ethandudu/Gestion-Bal-Android) pour installer les clients.
+- Vous pouvez maintenant vous rendre sur [Gestion-Bal-Windows](https://github.com/ethandudu/Gestion-Bal-Windows) ou ![Gestion-Bal-Android](https://github.com/ethandudu/Gestion-Bal-Android) pour installer les clients.
 
 ## Informations utiles
 - Identifiants de connexion par défaut pour les application : `admin` / `admin`
 - Les fichiers `versionbal.txt`, `versionandroid.txt` et `versionadmin.txt` sont à modifier lors de la publication d'une mise à jour du client Windows ou Android. Etant donné que les clients ne sont pas fournis avec un installateur, ces fichiers servent à la vérification de version.
-- ![Licence](https://github.com/ethandudu/Gestion-Bal-Server/blob/main/LICENCE.md)
+- [Licence](https://github.com/ethandudu/Gestion-Bal-Server/blob/main/LICENCE.md)
