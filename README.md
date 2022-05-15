@@ -1,5 +1,5 @@
 # Gestion-Bal-Server
-![GitHub release (dernière en date)](https://img.shields.io/github/v/release/ethandudu/Gestion-Bal-Server-blue?display_name=release&style=for-the-badge&logo=github)
+![GitHub release (dernière en date)](https://img.shields.io/github/v/release/ethandudu/Gestion-Bal-Server?display_name=release&style=for-the-badge&logo=github)
 ![Issues ouvertes](https://img.shields.io/github/issues/ethandudu/Gestion-Bal-Server?style=for-the-badge&logo=github)
 ![Version MariaDB](https://img.shields.io/badge/MariaDB-10.3.34-green?style=for-the-badge&logo=mariadb)
 ![Version PHP](https://img.shields.io/badge/PHP-7.4.3-green?style=for-the-badge&logo=php)
