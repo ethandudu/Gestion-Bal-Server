@@ -36,4 +36,4 @@ Les pré-requis indiqués ci-dessous sont ceux pour lesquels le serveur a été 
 ## Informations utiles
 - Identifiants de connexion par défaut pour les application : `admin` / `admin`
 - Les fichiers `versionbal.txt`, `versionandroid.txt` et `versionadmin.txt` sont à modifier lors de la publication d'une mise à jour du client Windows ou Android. Etant donné que les clients ne sont pas fournis avec un installateur, ces fichiers servent à la vérification de version.
-- ![Licence](https://github.com/ethandudu/Gestion-Bal/Server/blob/main/LICENSE.md)
+- ![Licence](https://github.com/ethandudu/Gestion-Bal-Server/blob/main/LICENCE.md)
